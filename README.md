@@ -1,1 +1,1 @@
-This is my first java-script task
+This is my first javascript task
